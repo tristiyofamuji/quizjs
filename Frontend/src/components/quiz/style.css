@@ -1,0 +1,25 @@
+.soal-list {
+    padding: 20px;
+}
+
+.soal-item {
+    margin-bottom: 20px;
+}
+
+.soal-item h2 {
+    font-size: 1.5em;
+    color: #333;
+}
+
+.soal-item ul {
+    list-style-type: none;
+    padding-left: 0;
+}
+
+.soal-item li {
+    background-color: #f9f9f9;
+    padding: 10px;
+    margin: 5px 0;
+    border-radius: 5px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
